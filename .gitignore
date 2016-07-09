@@ -1,0 +1,8 @@
+# project folders
+.settings
+ 
+# folders
+
+# files
+.DS_Store
+*.log
